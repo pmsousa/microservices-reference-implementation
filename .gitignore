@@ -290,3 +290,7 @@ __pycache__/
 .vscode
 
 src/bc-shipping/scheduler/target/*
+charts/delivery/charts/*.tgz
+charts/dronescheduler/charts/*.tgz
+ingestion-ingress-tls.*
+charts/*/*/*.tgz
